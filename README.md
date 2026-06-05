@@ -1,5 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/0xGENTLEMAN/0xGENTLEMAN/refs/heads/main/file.png)
-
 <h1 align="center">Hi, I'm 0xGently</h1>
 <h3 align="center"> I am a Cybersecurity Student specializing in Windows Malware Development/Analysis and Reverse Engineering. I build offensive tools to understand advanced evasion techniques and dissect malware to build better defenses. </h3>
 
